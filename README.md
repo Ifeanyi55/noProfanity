@@ -13,5 +13,5 @@ noProfanity(text = post, block = "####")
 
 ## **Contribution**
 
-- The list of profanities is not exhaustive. You are welcome to expand this list. Please submit a PR.
+- The list of profanities is not exhaustive. You are welcome to expand this list of profanities to be blocked out of text. Please submit a PR.
 - If you have ideas on how to expand the functionality of this tool, please create an issue.
